@@ -140,6 +140,8 @@ body {
 
 .product-description {
     color: #818d8e;
+    height: 100px;
+    overflow-y: scroll;
 }
 
 .add-to-cart-btn {
