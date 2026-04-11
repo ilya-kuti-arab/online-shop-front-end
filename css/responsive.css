@@ -1,0 +1,41 @@
+@media (max-width: 412px) {
+    .nav-links a{
+        display: none;
+    }
+    .title-site {
+        font-size: 20px;
+        width: 147px;
+        margin-left: 40px;
+    }
+    .nav-btns{
+        display: none;
+    }
+    .mobile-menu-btn {
+        display: block;
+        position: absolute;
+        z-index: 2;
+        top: 25px;
+        right: 35px;
+        font-size: 25px;
+        transform: rotate(90deg);
+        color: white;
+    }
+    .hero-container  {
+        text-align: center;
+    }
+    .hero-container p{
+        width: 90%;
+    }
+    .products {
+        grid-template-columns: 1fr;
+    }
+    .footer-content {
+        grid-template-columns: 1fr;
+    }
+    .footer-column {
+        margin-bottom: 30px;
+    }
+    .about-the-store div {
+        width: 300px;
+    }
+}

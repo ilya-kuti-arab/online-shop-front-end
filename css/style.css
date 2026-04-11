@@ -18,6 +18,10 @@ body {
     font-family: "myfont";
 }
 
+.mobile-menu-btn {
+    display: none;
+}
+
 .nav-bar {
     background-color: var(--text-color);
     height: 80px;
@@ -261,3 +265,4 @@ footer {
 .copyright p{
     color: #b6bdc1;
 }
+
