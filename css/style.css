@@ -9,13 +9,8 @@
     --height-footer-card: 400px;
 }
 
-@font-face {
-    font-family: "myfont";
-    src: url(../static/fonts/arial.ttf);
-}
-
 body {
-    font-family: "myfont";
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .mobile-menu-btn {
